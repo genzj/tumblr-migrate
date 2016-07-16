@@ -72,3 +72,4 @@ target/
 
 #config files
 config.json
+/.project
