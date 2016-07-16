@@ -1,0 +1,14 @@
+{
+    "consumer_key": "",
+    "consumer_secret": "",
+    "source": {
+        "token": "",
+        "secret": ""
+    },
+    "targets": [
+        {
+            "token": "",
+            "secret": ""
+        }
+    ]
+}
